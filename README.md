@@ -9,5 +9,5 @@ There are three scRNAseq datasets included in the paper. Each dataset has its ow
 
 24-hour, bead activated T cells (control and yMSC suppressed): 24h_BeadActivated_Analysis.R
 
-Note: For reproducibility, Seurat objects have been uploaded here: 10.5281/zenodo.21347623
+Note: For reproducibility, Seurat objects have been uploaded here: 10.5281/zenodo.21347623 or https://zenodo.org/records/21347623
 
